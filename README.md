@@ -2,4 +2,4 @@
 
 This is currently just a site with links to my social profiles.
 
-[Link](https://fjbarrett.com).
+[Link](https://fjbarrett.com)
